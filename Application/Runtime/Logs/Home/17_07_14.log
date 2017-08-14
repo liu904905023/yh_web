@@ -1,0 +1,12 @@
+[ 2017-07-14T03:08:14+08:00 ] 123.126.126.125 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-14T09:01:21+08:00 ] 101.226.33.238 /index.php/Ad/undefined
+ERR: 非法操作:undefined
+
+[ 2017-07-14T09:04:52+08:00 ] 123.151.64.143 /index.php/Order/index.html
+ERR: 非法操作:index
+
+[ 2017-07-14T09:09:06+08:00 ] 101.226.66.181 /index.php/orderfund/orderfund
+ERR: 无法加载控制器:Orderfund
+

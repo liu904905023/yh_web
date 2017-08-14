@@ -1,0 +1,21 @@
+[ 2017-07-19T07:52:00+08:00 ] 140.207.185.111 /index.php/Ad/undefined
+ERR: 非法操作:undefined
+
+[ 2017-07-19T07:57:21+08:00 ] 61.151.226.191 /index.php/Ad/undefined
+ERR: 非法操作:undefined
+
+[ 2017-07-19T08:05:45+08:00 ] 61.151.226.189 /index.php/Ad/undefined
+ERR: 非法操作:undefined
+
+[ 2017-07-19T08:59:17+08:00 ] 101.226.33.223 /index.php/Ad/undefined
+ERR: 非法操作:undefined
+
+[ 2017-07-19T12:26:44+08:00 ] 61.151.226.191 /index.php/orderfund/orderfund
+ERR: 无法加载控制器:Orderfund
+
+[ 2017-07-19T23:33:02+08:00 ] 123.151.148.172 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-19T23:33:05+08:00 ] 139.214.144.115 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+

@@ -1,0 +1,24 @@
+[ 2017-04-25T14:00:42+08:00 ] 139.214.38.244 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-25T14:53:44+08:00 ] 111.161.52.234 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-25T14:53:45+08:00 ] 111.161.52.230 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-25T14:54:06+08:00 ] 125.39.57.36 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-25T15:09:28+08:00 ] 139.214.38.244 /index.php/Wft/recharge_jsapi
+ERR: {"Code":102,"Description":"请使用威富通类型！","Data":{"PayData":null}}
+
+[ 2017-04-25T15:10:09+08:00 ] 139.214.38.244 /index.php/Wft/recharge_jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"a04e8715b002f33a12aa5a896a004156","appId":"wx0781c1dea664cd9a","paySign":"5CAC46F875051E618026BDE91175AD31","package":"prepay_id=wx20170425151008dbee9b954c0380614745","out_trade_no":"1320170425151008275510477","signType":"MD5","timeStamp":"1493104208914","nonceStr":"1493104208914"}}}
+
+[ 2017-04-25T15:14:51+08:00 ] 139.214.38.244 /index.php/Wft/recharge_jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"886f27ce3b90ad330d3aa8acc978698a","appId":"wx0781c1dea664cd9a","paySign":"3AF2C8D7EA2BF2F858E5715725CE33D2","package":"prepay_id=wx20170425151451aa42caac740726832045","out_trade_no":"1320170425151451457213912","signType":"MD5","timeStamp":"1493104491640","nonceStr":"1493104491640"}}}
+
+[ 2017-04-25T15:39:33+08:00 ] 139.214.38.244 /index.php/Wft/recharge_jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"90203ac2e85e2a17c5260f22ea4aadb4","appId":"wx0781c1dea664cd9a","paySign":"5AD1856B341401D0D44FCF9375E0F7CE","package":"prepay_id=wx20170425153933097a4c5d000935941356","out_trade_no":"1320170425153933218401800","signType":"MD5","timeStamp":"1493105973479","nonceStr":"1493105973479"}}}
+

@@ -1,0 +1,24 @@
+[ 2017-07-23T03:56:52+08:00 ] 139.214.144.124 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T04:26:39+08:00 ] 111.26.32.20 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T04:26:42+08:00 ] 139.214.244.130 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T10:14:07+08:00 ] 36.104.69.23 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T11:14:22+08:00 ] 139.214.144.59 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T15:03:51+08:00 ] 111.161.105.17 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T15:04:07+08:00 ] 111.26.33.25 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-23T15:33:34+08:00 ] 36.104.40.139 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+

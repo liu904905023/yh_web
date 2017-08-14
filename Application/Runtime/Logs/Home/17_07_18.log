@@ -1,0 +1,12 @@
+[ 2017-07-18T06:39:22+08:00 ] 123.151.153.36 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-18T09:59:01+08:00 ] 111.161.57.52 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-07-18T16:05:10+08:00 ] 123.151.138.57 /index.php/Weixin/
+ERR: 非法操作:index
+
+[ 2017-07-18T19:46:58+08:00 ] 222.161.198.23 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+

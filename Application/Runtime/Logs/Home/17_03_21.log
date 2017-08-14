@@ -1,0 +1,75 @@
+[ 2017-03-21T01:23:27+08:00 ] 220.181.108.176 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-21T09:23:36+08:00 ] 207.46.13.165 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-21T09:45:20+08:00 ] 139.214.34.91 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"EB353FC9D238A84E792EC7065D51C490","package":"prepay_id=wx2017032109452063f51e0df40625136683","out_trade_no":"1320170321094519430279152","signType":"MD5","timeStamp":"1490060720557","nonceStr":"1490060720557"}}}
+
+[ 2017-03-21T12:22:25+08:00 ] 125.211.219.235 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-03-21T12:22:27+08:00 ] 36.48.109.114 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-03-21T16:17:47+08:00 ] 36.48.112.147 /Public/assets/font/fontawesome-webfont.eot?
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T16:17:56+08:00 ] 36.48.112.147 /Public/assets/font/fontawesome-webfont.eot?
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T16:17:58+08:00 ] 36.48.113.77 /Public/assets/font/fontawesome-webfont.eot?
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T16:19:40+08:00 ] 36.48.112.147 /Public/assets/font/fontawesome-webfont.eot?
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T16:19:47+08:00 ] 36.48.113.77 /Public/assets/font/fontawesome-webfont.eot?
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T16:25:33+08:00 ] 36.48.112.147 /Public/assets/font/fontawesome-webfont.eot?
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:44:17+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:44:17+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:44:23+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:44:24+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:44:52+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:44:52+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:45:11+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:45:11+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:45:13+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:45:13+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:46:30+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:46:30+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:46:31+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-21T21:46:31+08:00 ] 36.49.78.189 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+

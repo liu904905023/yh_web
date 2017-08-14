@@ -1,0 +1,42 @@
+[ 2017-05-16T02:47:07+08:00 ] 123.151.138.57 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T02:50:21+08:00 ] 123.151.138.57 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T05:55:09+08:00 ] 123.151.42.145 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T06:23:26+08:00 ] 123.151.138.74 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T07:00:00+08:00 ] 61.49.56.47 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T08:16:43+08:00 ] 223.104.16.14 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T08:38:13+08:00 ] 180.173.16.238 /index.php/login/login.h
+ERR: 非法操作:login.h
+
+[ 2017-05-16T08:38:32+08:00 ] 180.173.16.238 /index.php/login/login.
+ERR: 非法操作:login.
+
+[ 2017-05-16T11:28:32+08:00 ] 111.161.57.163 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-05-16T14:56:09+08:00 ] 111.26.35.197 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T15:26:44+08:00 ] 123.126.118.139 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T15:49:52+08:00 ] 139.214.251.209 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T15:56:31+08:00 ] 123.126.126.125 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-16T19:49:49+08:00 ] 36.48.109.211 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+

@@ -1,0 +1,36 @@
+[ 2017-05-14T00:17:53+08:00 ] 124.234.228.236 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T01:19:12+08:00 ] 60.219.131.118 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T02:10:17+08:00 ] 123.126.118.139 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T04:26:55+08:00 ] 111.27.144.161 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T10:54:10+08:00 ] 111.161.57.63 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T14:44:28+08:00 ] 111.26.33.164 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T14:55:25+08:00 ] 123.126.124.148 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T15:21:00+08:00 ] 101.226.68.197 /index.php/orderfund/orderfund
+ERR: 无法加载控制器:Orderfund
+
+[ 2017-05-14T16:51:38+08:00 ] 139.214.251.184 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T18:55:36+08:00 ] 139.214.254.179 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T20:03:38+08:00 ] 125.39.57.39 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-05-14T22:51:39+08:00 ] 175.16.36.192 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+

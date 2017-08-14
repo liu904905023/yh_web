@@ -1,0 +1,6 @@
+[ 2017-04-20T15:49:51+08:00 ] 139.214.35.236 /index.php/Wft/weixin?token_id=QBByUjdL9UUOJnUytjvi0g%3D%3D&code=021UMXIr1cbZer0ZHxKr1WDhJr1UMXIH&state=STATE
+ERR: 模板不存在:./Application/Home/View/Wft/weixin.html
+
+[ 2017-04-20T15:49:58+08:00 ] 139.214.35.236 /index.php/Wft/weixin?token_id=Y35RLMYARXvGxY1wnlYISg%3D%3D&code=0119a3rj1nObuz0qN9rj1k79rj19a3rg&state=STATE
+ERR: 模板不存在:./Application/Home/View/Wft/weixin.html
+

@@ -1,0 +1,33 @@
+[ 2017-03-26T00:59:46+08:00 ] 123.125.71.60 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-26T10:40:12+08:00 ] 119.53.181.34 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"E50F05485BC8CBF5EDBF56D8C2BB2817","package":"prepay_id=wx20170326104012227fe20ba00628262934","out_trade_no":"1320170326104011283441229","signType":"MD5","timeStamp":"1490496012818","nonceStr":"1490496012818"}}}
+
+[ 2017-03-26T10:40:23+08:00 ] 180.153.214.180 /index.php/Wft/jsapi
+ERR: {"Code":102,"Description":"员工主键不能为空!","Data":null}
+
+[ 2017-03-26T13:32:59+08:00 ] 36.104.21.116 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"5B5D3CEE1DFF87B95FEE7987591C3F56","package":"prepay_id=wx20170326133300a8c54bef490109270450","out_trade_no":"1320170326133258829774126","signType":"MD5","timeStamp":"1490506380264","nonceStr":"1490506380264"}}}
+
+[ 2017-03-26T13:44:47+08:00 ] 223.104.16.30 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"7F43CBB5B4B4918922FDEDB242A1AC8B","package":"prepay_id=wx20170326134447d688dccb6c0006681038","out_trade_no":"1320170326134446197027488","signType":"MD5","timeStamp":"1490507087738","nonceStr":"1490507087738"}}}
+
+[ 2017-03-26T15:25:21+08:00 ] 42.236.99.72 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-26T18:39:30+08:00 ] 36.48.93.206 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-26T18:56:46+08:00 ] 219.149.226.28 /Public/assets/js/jquery-2.0.3.min.map
+ERR: 无法加载控制器:Public
+
+[ 2017-03-26T18:56:56+08:00 ] 101.226.89.122 /Public/assets/js/jquery-2.0.3.min.map
+ERR: 无法加载控制器:Public
+
+[ 2017-03-26T21:30:44+08:00 ] 223.104.16.66 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"9EFFF5789DBAB93C4AA7E615E89F17FE","package":"prepay_id=wx2017032621304410a7523e380134275419","out_trade_no":"1320170326213043677972989","signType":"MD5","timeStamp":"1490535044714","nonceStr":"1490535044714"}}}
+
+[ 2017-03-26T21:31:23+08:00 ] 207.46.13.217 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+

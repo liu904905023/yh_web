@@ -1,0 +1,408 @@
+[ 2017-08-11T09:19:58+08:00 ] 101.226.33.224 /index.php/Intels/undefined
+ERR: 非法操作:undefined
+
+[ 2017-08-11T09:22:49+08:00 ] 101.226.125.104 /index.php/Intels/undefined
+ERR: 非法操作:undefined
+
+[ 2017-08-11T09:23:48+08:00 ] 101.226.99.197 /index.php/Intels/undefined
+ERR: 非法操作:undefined
+
+[ 2017-08-11T09:29:57+08:00 ] 101.226.33.202 /index.php/orderfund/orderfund
+ERR: 无法加载控制器:Orderfund
+
+[ 2017-08-11T09:38:35+08:00 ] 139.214.36.67 /index.php/Intels/indexs?systemUserSysNo=2406&code=011tK0iv0HtEWc1adQhv0XE5iv0tK0id&state=STATE
+ERR: {"Code":102,"Description":"员工主键不能为空!","Data":{"PayData":null}}
+
+[ 2017-08-11T09:40:51+08:00 ] 101.226.89.121 /index.php/Intels/undefined
+ERR: 非法操作:undefined
+
+[ 2017-08-11T09:46:37+08:00 ] 180.163.1.46 /index.php/Intels/undefined
+ERR: 非法操作:undefined
+
+[ 2017-08-11T10:52:28+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:54:19+08:00 ] 139.214.36.67 /spay/fixedCodePay
+ERR: 无法加载控制器:Spay
+
+[ 2017-08-11T10:54:37+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:55:11+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:55:13+08:00 ] 139.214.36.67 /index.php/Intels/index.php/Intels/indexs
+ERR: 非法操作:index.php
+
+[ 2017-08-11T10:55:37+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:55:38+08:00 ] 139.214.36.67 /indexs
+ERR: 无法加载控制器:Indexs
+
+[ 2017-08-11T10:56:14+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:57:39+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:58:00+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:58:16+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T10:59:12+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:01:18+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:02:01+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:02:54+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:03:33+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:03:36+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:03:55+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:04:06+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch.html
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:04:09+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:04:40+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:04:43+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:05:12+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:05:35+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:05:36+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:05:54+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:05:57+08:00 ] 139.214.36.67 /index.php/Refund/refundbatch
+ERR: 非法操作:refundbatch
+
+[ 2017-08-11T11:06:08+08:00 ] 139.214.36.67 /index.php/Refund/
+ERR: 非法操作:index
+
+[ 2017-08-11T11:07:43+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:08:31+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:09:17+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:10:15+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:11:26+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:11:43+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:12:09+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:12:30+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:16:17+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:17:02+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:17:13+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:18:30+08:00 ] 140.207.124.105 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:19:08+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:20:26+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:33:07+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:33:42+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:34:19+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:44:07+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:44:27+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:45:20+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:45:54+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:46:07+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:46:35+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:48:26+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:49:01+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:49:01+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:49:18+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:50:16+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:51:05+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:53:21+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:54:09+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:54:09+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:54:49+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:54:54+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:57:29+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:58:20+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:58:21+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:58:49+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:59:39+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T11:59:40+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:00:19+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:00:34+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:00:56+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:01:54+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:09:02+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:10:22+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:11:16+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:12:03+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:12:26+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:13:26+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:14:52+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:15:52+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:17:27+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:30:02+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:58:23+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:58:39+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T12:59:19+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:08:03+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:10:25+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:10:47+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:11:07+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:11:22+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:18:59+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:19:36+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:19:51+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:20:23+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:21:16+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:21:44+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:22:08+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:23:54+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:24:19+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:24:34+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:24:57+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:25:17+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:25:59+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:26:46+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:27:05+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:27:31+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:27:59+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:28:11+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:29:29+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:30:11+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:30:37+08:00 ] 139.214.36.67 /Public/newpay20170811/js/v3/hammer.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-08-11T13:43:39+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"1e50e2fa8bbc6b9f6473a7167ec997abd","appId":"wx0781c1dea664cd9a","paySign":"6FE547421381D69DF7A9B2134C17D552","package":"prepay_id=wx2017081113433952095648cb0903204584","out_trade_no":"1320170811134339017609172","signType":"MD5","timeStamp":"1502430219633","nonceStr":"1502430219633"}}}
+
+[ 2017-08-11T13:44:57+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"2f1105580ca5112b6529e800be5a8cb37","appId":"wx0781c1dea664cd9a","paySign":"5DF6D98C6FF8240DCF51D3C5AF562236","package":"prepay_id=wx20170811134457ad380dcc990992869027","out_trade_no":"1320170811134457725669459","signType":"MD5","timeStamp":"1502430297617","nonceStr":"1502430297617"}}}
+
+[ 2017-08-11T13:46:37+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"2ecb885bc43ea169594ebb22d4cdb3766","appId":"wx0781c1dea664cd9a","paySign":"A72CB5724E7BE74B343223A0D6C8A45E","package":"prepay_id=wx20170811134637075d9be2960359617686","out_trade_no":"1320170811134637635215007","signType":"MD5","timeStamp":"1502430397461","nonceStr":"1502430397461"}}}
+
+[ 2017-08-11T13:50:42+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"1b3d64679285a70386bd582c7bd1a4d92","appId":"wx0781c1dea664cd9a","paySign":"CAC4C82D5EDABD406FC1115DE6C60F9C","package":"prepay_id=wx20170811135042c8f1d354430519566497","out_trade_no":"1320170811135041067377749","signType":"MD5","timeStamp":"1502430642308","nonceStr":"1502430642308"}}}
+
+[ 2017-08-11T13:50:49+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"12cf80ee4442d13b4b4a66cffbc73dae3","appId":"wx0781c1dea664cd9a","paySign":"3C271B004A5B8A4912E103C14CFE8411","package":"prepay_id=wx20170811135049ade9c2b2150453705458","out_trade_no":"1320170811135048539400240","signType":"MD5","timeStamp":"1502430649166","nonceStr":"1502430649166"}}}
+
+[ 2017-08-11T13:51:22+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"14864339ed901c847cb2f7b56bb64d57d","appId":"wx0781c1dea664cd9a","paySign":"0ED5E29E77CF374DFE320DE156D03CCB","package":"prepay_id=wx201708111351223a2918cbfd0384758374","out_trade_no":"1320170811135121678782773","signType":"MD5","timeStamp":"1502430682452","nonceStr":"1502430682452"}}}
+
+[ 2017-08-11T13:54:56+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"12befa905f0d5586fb17a99295bf8f4b4","appId":"wx0781c1dea664cd9a","paySign":"D732A584AD821DEBA64EAA5CA3DB8419","package":"prepay_id=wx2017081113545649208c05b50395457920","out_trade_no":"1320170811135456367523720","signType":"MD5","timeStamp":"1502430896778","nonceStr":"1502430896778"}}}
+
+[ 2017-08-11T14:02:01+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"27d4771f555f8add32f730829e483bdc7","appId":"wx0781c1dea664cd9a","paySign":"6AD607657A3B4EF868D4645F1BD63529","package":"prepay_id=wx20170811140201379300fe550802617178","out_trade_no":"1320170811140201221732991","signType":"MD5","timeStamp":"1502431321598","nonceStr":"1502431321598"}}}
+
+[ 2017-08-11T14:12:55+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"1320170811141255150452534","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"4a48898fe16e4104858f90c781100516","package":"prepay_id=wx20170811141255e6a23b93cd0918071728","paySign":"BC8A757DA78198B1BBCD9CF0E7CD1D12","signType":"MD5","timeStamp":"1502431976"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null,"OpenID":null}}
+
+[ 2017-08-11T14:13:45+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"1320170811141345118903206","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"cc359a4527864dac8ba5174b8cc84726","package":"prepay_id=wx20170811141345d57c2e2d5d0628683700","paySign":"8E304B67AF3A171D36444761AE409A51","signType":"MD5","timeStamp":"1502432025"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null,"OpenID":null}}
+
+[ 2017-08-11T14:58:51+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"1320170811145851591855603","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"f7196b6877034560a7431053decd5654","package":"prepay_id=wx20170811145851bae771dd990948864230","paySign":"E6189CA1E788831247E284E93E1FFCEE","signType":"MD5","timeStamp":"1502434732"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null,"OpenID":null}}
+
+[ 2017-08-11T15:08:29+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":500,"Description":"统一支付接口中，缺少必填参数openid！trade_type为JSAPI时，openid为必填参数！","Data":null}
+
+[ 2017-08-11T15:08:31+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":500,"Description":"统一支付接口中，缺少必填参数openid！trade_type为JSAPI时，openid为必填参数！","Data":null}
+
+[ 2017-08-11T15:09:16+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"1320170811150916821700015","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"8be2c3a4c8364310bb5e57d15af83468","package":"prepay_id=wx201708111509167e48afa54a0387192643","paySign":"F5EA6383F8FB12FA79D04B62FED636E9","signType":"MD5","timeStamp":"1502435357"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null,"OpenID":null}}
+
+[ 2017-08-11T15:09:23+08:00 ] 139.214.36.67 /index.php/Intels/newpay
+ERR: {"Code":0,"Description":"1320170811150923045389140","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"22293d7ea93243c59b7ccc39270d57be","package":"prepay_id=wx2017081115092399f4e665350199446829","paySign":"15DB4F1CD2B9B0CEBE6B886F6EB6D040","signType":"MD5","timeStamp":"1502435364"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null,"OpenID":null}}
+
+[ 2017-08-11T15:25:50+08:00 ] 175.20.229.19 /indx.php/longin/longin
+ERR: 无法加载控制器:Indx.php
+
+[ 2017-08-11T15:26:10+08:00 ] 175.20.229.19 /index.php/longin/longin
+ERR: 无法加载控制器:Longin
+
+[ 2017-08-11T15:55:50+08:00 ] 175.20.229.19 /indx.php/longin/longin
+ERR: 无法加载控制器:Indx.php
+

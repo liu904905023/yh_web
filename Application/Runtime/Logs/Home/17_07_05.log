@@ -1,0 +1,114 @@
+[ 2017-07-05T03:44:05+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T03:44:08+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T06:56:53+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T06:57:25+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T08:55:50+08:00 ] 110.75.248.135 /index.php/Intels/newpay?app_id=2016072101648286&source=alipay_wallet&scope=auth_base&auth_code=587e0089bdce413199239edc8addWX66
+ERR: Think\Controller:object_to_array方法不存在！
+
+[ 2017-07-05T09:51:32+08:00 ] 139.214.36.95 /index.php/Intels/index
+ERR: 0.015600s
+
+[ 2017-07-05T09:57:39+08:00 ] 124.92.141.70 /index.php/Intels/in
+ERR: 非法操作:in
+
+[ 2017-07-05T09:57:41+08:00 ] 220.175.158.134 /index.php/Intels/indez
+ERR: 非法操作:indez
+
+[ 2017-07-05T09:57:41+08:00 ] 113.233.240.92 /index.php/Intels/inde
+ERR: 非法操作:inde
+
+[ 2017-07-05T09:57:42+08:00 ] 124.90.104.31 /index.php/Intels/indez
+ERR: 非法操作:indez
+
+[ 2017-07-05T09:57:43+08:00 ] 49.81.76.227 /index.php/Intels/inde
+ERR: 非法操作:inde
+
+[ 2017-07-05T10:15:55+08:00 ] 139.214.34.3 /index.php/Intels/index
+ERR: 0.015600s
+
+[ 2017-07-05T10:23:09+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":500,"Description":"统一支付接口中，缺少必填参数openid！trade_type为JSAPI时，openid为必填参数！","Data":null}
+
+[ 2017-07-05T10:23:17+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T10:23:19+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T10:23:49+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102349723889377","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"78d870f0159248738625c55530a63e05","package":"prepay_id=wx20170705102358b776ec4c610002442783","paySign":"0EAC5D77B4F54B74E09214AE92587288","signType":"MD5","timeStamp":"1499221430"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:24:57+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102456596331605","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"c11e937b3c154296b7f889521d8e2e24","package":"prepay_id=wx20170705102506f963f5b88b0542329887","paySign":"08EFB4508E88E1BD5E485505BED3D2DA","signType":"MD5","timeStamp":"1499221497"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:25:47+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102546530236241","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"fb02e7fdaca848c9bc700d870be41738","package":"prepay_id=wx201707051025565797ce80ee0547965674","paySign":"E3354F974143EBB38097C34D8D2B2362","signType":"MD5","timeStamp":"1499221547"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:26:52+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102651854068168","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"b4703ef8a89749c2b786af59bd696e44","package":"prepay_id=wx20170705102701fa303308340118977952","paySign":"542A5BA047B19DA79D06A2BF3F2C903A","signType":"MD5","timeStamp":"1499221612"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:27:31+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102730153143660","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"1be4744cce9e476e883ba8efd2a2912d","package":"prepay_id=wx20170705102740a83a5f984e0092692030","paySign":"3F6414DF0D2B614E2FB75380261F60F8","signType":"MD5","timeStamp":"1499221651"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:28:06+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102805348085861","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"bb34c0c3d9d5469b8b7a4630227b04dc","package":"prepay_id=wx20170705102815411c7346ca0357791608","paySign":"C0C4A4F328C8E95E02AFEF89D7770751","signType":"MD5","timeStamp":"1499221686"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:28:58+08:00 ] 139.214.254.234 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102857748387647","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"2ee9a2702bf646fca5a1f15902e941ce","package":"prepay_id=wx20170705102907325529b1880796632094","paySign":"D4E1569FAA4715065DEFAA05312A5CEF","signType":"MD5","timeStamp":"1499221738"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:29:38+08:00 ] 139.214.34.3 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705102937233930909","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"44a460d91a0e4b6d8785ae0f9f0fddc8","package":"prepay_id=wx2017070510294734829417f40300475010","paySign":"F4A4649793F0E6B102A154A8EBA56261","signType":"MD5","timeStamp":"1499221778"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:32:14+08:00 ] 139.214.36.95 /index.php/Intels/jsapi
+ERR: {"Code":102,"Description":"员工主键不能为空！","Data":null}
+
+[ 2017-07-05T10:34:25+08:00 ] 139.214.36.95 /index.php/Intels/jsapi
+ERR: {"Code":102,"Description":"员工主键不能为空！","Data":null}
+
+[ 2017-07-05T10:39:26+08:00 ] 139.214.36.95 /index.php/Intels/jsapi
+ERR: {"Code":102,"Description":"员工主键不能为空！","Data":null}
+
+[ 2017-07-05T10:40:19+08:00 ] 139.214.36.95 /index.php/Intels/jsapi
+ERR: {"Code":102,"Description":"员工主键不能为空！","Data":null}
+
+[ 2017-07-05T10:40:43+08:00 ] 139.214.254.234 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705104042239877803","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"11962ca3f8c64c89843dc21ea18d50f1","package":"prepay_id=wx20170705104052e53c3163580125550204","paySign":"DB5F4FDD37131BB9C87F598ACA882DA1","signType":"MD5","timeStamp":"1499222443"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:51:04+08:00 ] 139.214.254.234 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705105104229691205","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"43a265c68c914ade8d37159a02dda396","package":"prepay_id=wx20170705105114dc4bcec0300782042903","paySign":"1B8D9CD90D28C85904597E04DFBA8C0C","signType":"MD5","timeStamp":"1499223065"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:52:28+08:00 ] 139.214.254.234 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705105227141605677","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"51191b25a0df45969e83c0048d7dac18","package":"prepay_id=wx20170705105237359727cc070187024105","paySign":"BA2AF426455E6707E12D8823F4D17EEE","signType":"MD5","timeStamp":"1499223148"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T10:54:49+08:00 ] 139.214.254.234 /index.php/Intels/jsapi
+ERR: {"Code":0,"Description":"1320170705105449461784572","Data":{"WxPayData":{"m_values":{"appId":"wx261671a6d70c4db5","nonceStr":"c2fa918466954a27bd53e467127fea30","package":"prepay_id=wx2017070510545844fc8268090554191199","paySign":"6CD209A0D6C3D5ACC2C8FCED7C8871BA","signType":"MD5","timeStamp":"1499223290"}},"Status":null,"Pay_Type":null,"Time_Start":null,"YwMch_id":null,"Old_SysNo":null}}
+
+[ 2017-07-05T14:07:11+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T14:07:12+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T17:31:30+08:00 ] 61.49.57.61 /index.php/Ad/MinSheng
+ERR: 非法操作:MinSheng
+
+[ 2017-07-05T17:55:17+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T17:55:18+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-05T18:25:28+08:00 ] 125.39.57.36 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-07-05T20:40:31+08:00 ] 117.136.5.24 /index.php/Ad/ad
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/68c812bf9170e05b63612721bad99f66.php
+

@@ -1,0 +1,6 @@
+[ 2017-05-07T13:22:34+08:00 ] 139.214.254.126 /index.php/Wft/jsapi
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/8e132490cc3d93a938c4cf0f605b4e45.php
+
+[ 2017-05-07T22:12:07+08:00 ] 60.219.131.25 /index.php/Order/index.html
+ERR: 非法操作:index
+

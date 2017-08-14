@@ -1,0 +1,6 @@
+[ 2017-06-04T13:20:32+08:00 ] 223.104.227.198 /index.php/Wft/undefined
+ERR: 非法操作:undefined
+
+[ 2017-06-04T15:00:02+08:00 ] 111.26.33.208 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:0
+

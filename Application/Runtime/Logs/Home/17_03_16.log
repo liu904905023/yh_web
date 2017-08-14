@@ -1,0 +1,21 @@
+[ 2017-03-16T00:20:17+08:00 ] 123.125.71.16 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-16T10:22:34+08:00 ] 223.104.16.64 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"6120CD29A28925DD550D9410F8F78C9D","package":"prepay_id=wx20170316102234eb786ccb090818337292","out_trade_no":"1320170316102233894820785","signType":"MD5","timeStamp":"1489630954436","nonceStr":"1489630954436"}}}
+
+[ 2017-03-16T10:27:53+08:00 ] 223.104.16.64 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"3B447A9CBDE85C462D41756A79387D1A","package":"prepay_id=wx2017031610275378e98786fc0043262952","out_trade_no":"1320170316102752043157598","signType":"MD5","timeStamp":"1489631273681","nonceStr":"1489631273681"}}}
+
+[ 2017-03-16T10:28:09+08:00 ] 223.104.16.64 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"FE2915B8CAF51F76C8D46655A079DD15","package":"prepay_id=wx20170316102809b70efc26bf0539317314","out_trade_no":"1320170316102808795903453","signType":"MD5","timeStamp":"1489631289139","nonceStr":"1489631289139"}}}
+
+[ 2017-03-16T17:46:15+08:00 ] 139.214.244.6 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-03-16T19:16:58+08:00 ] 42.236.99.23 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-16T19:22:15+08:00 ] 66.249.75.46 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+

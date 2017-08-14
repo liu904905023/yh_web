@@ -1,0 +1,21 @@
+[ 2017-04-26T11:47:24+08:00 ] 139.214.38.244 /index.php/Wft/recharge_jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"fbeab8f190a85407ae3a10b8f5f12e77","appId":"wx0781c1dea664cd9a","paySign":"5285E4CDE173C93D725B10DB804F419F","package":"prepay_id=wx2017042611472450a4b11dce0924069331","out_trade_no":"1320170426114723120020741","signType":"MD5","timeStamp":"1493178444252","nonceStr":"1493178444252"}}}
+
+[ 2017-04-26T14:06:32+08:00 ] 140.207.185.112 /index.php/refundsearch/refund_search
+ERR: 无法加载控制器:Refundsearch
+
+[ 2017-04-26T15:57:01+08:00 ] 139.214.32.221 /index.php/Wft/recharge_jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"298f0189975f49c2add3dd5898761bae","appId":"wx0781c1dea664cd9a","paySign":"9E5CDB5B559B37149647C05D0FA4BF2A","package":"prepay_id=wx201704261557010361719e060112129503","out_trade_no":"1320170426155700633129703","signType":"MD5","timeStamp":"1493193421052","nonceStr":"1493193421052"}}}
+
+[ 2017-04-26T15:58:15+08:00 ] 139.214.32.221 /index.php/OrderExtendRecharge/order_extend_recharge
+ERR: 无法加载控制器:OrderExtendRecharge
+
+[ 2017-04-26T15:58:25+08:00 ] 101.226.66.173 /index.php/OrderExtendRecharge/order_extend_recharge
+ERR: 无法加载控制器:OrderExtendRecharge
+
+[ 2017-04-26T16:12:53+08:00 ] 139.214.32.221 /index.php/Wft/recharge_jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"e89604c75b0000aad7ff36a60a1e799b","appId":"wx0781c1dea664cd9a","paySign":"15055C408C39B83BB57D1331F7BC152C","package":"prepay_id=wx20170426161253e2aa8275940511745931","out_trade_no":"1320170426161253544916811","signType":"MD5","timeStamp":"1493194373735","nonceStr":"1493194373735"}}}
+
+[ 2017-04-26T16:16:29+08:00 ] 139.214.32.221 /index.php/OrderExtendRecharge/order_extend_recharge
+ERR: 无法加载控制器:OrderExtendRecharge
+

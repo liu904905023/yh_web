@@ -1,0 +1,156 @@
+[ 2017-04-24T00:07:28+08:00 ] 125.39.57.38 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T00:09:41+08:00 ] 123.151.153.35 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T02:01:56+08:00 ] 112.97.59.123 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T06:21:50+08:00 ] 111.26.33.210 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T06:51:09+08:00 ] 123.151.139.155 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T07:54:11+08:00 ] 61.49.57.55 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T07:57:15+08:00 ] 123.151.152.151 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T08:51:26+08:00 ] 61.49.57.60 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T10:19:47+08:00 ] 139.214.251.131 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T10:51:29+08:00 ] 175.19.191.242 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T11:15:50+08:00 ] 139.214.33.218 /index.php/Wxpay/weixin1
+ERR: 非法操作:weixin1
+
+[ 2017-04-24T11:15:53+08:00 ] 139.214.33.218 /index.php/Wxpay/weixin1
+ERR: 非法操作:weixin1
+
+[ 2017-04-24T11:15:54+08:00 ] 139.214.33.218 /index.php/Wxpay/weixin1
+ERR: 非法操作:weixin1
+
+[ 2017-04-24T13:48:41+08:00 ] 139.214.33.218 /index.php/Wtf/recharge?company=&contact=&mobile=&num=&fee=%E9%80%89%E6%8B%A9%E9%87%91%E9%A2%9D&fee=0
+ERR: 无法加载控制器:Wtf
+
+[ 2017-04-24T13:48:51+08:00 ] 139.214.33.218 /index.php/Wtf/recharge?company=&contact=&mobile=&num=&fee=%E9%80%89%E6%8B%A9%E9%87%91%E9%A2%9D&fee=0
+ERR: 无法加载控制器:Wtf
+
+[ 2017-04-24T13:49:04+08:00 ] 139.214.33.218 /index.php/Wtf/recharge?company=&contact=&mobile=&num=&fee=%E9%80%89%E6%8B%A9%E9%87%91%E9%A2%9D&fee=0
+ERR: 无法加载控制器:Wtf
+
+[ 2017-04-24T16:32:05+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:32:34+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:32:36+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:33:02+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:33:37+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:34:15+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:34:38+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:34:41+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:35:18+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:36:59+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:37:01+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:37:48+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:37:55+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:38:11+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:38:48+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:38:50+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:39:09+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:41:49+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:42:22+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:45:15+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:45:58+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:45:59+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:47:31+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:48:11+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:48:50+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:49:20+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:49:46+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:50:09+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:51:50+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:52:09+08:00 ] 139.214.38.51 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-24T16:55:32+08:00 ] 139.214.33.218 /index.php/Wft/recharge_jsapi
+ERR: {"company":"\u5218\u54e5\u5218","contact":"\u54e5\u5218","mobile":"15844443333","num":"45455","fee":"200","openid":"otXptweENZr-trzek4EciizLZnl4","systemUserSysNo":"2406"}
+
+[ 2017-04-24T19:24:29+08:00 ] 111.26.33.169 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-24T20:51:40+08:00 ] 125.39.57.36 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-24T20:55:38+08:00 ] 110.17.170.251 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-24T20:56:31+08:00 ] 111.161.105.16 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-24T21:39:20+08:00 ] 111.161.52.234 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+

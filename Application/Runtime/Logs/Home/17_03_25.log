@@ -1,0 +1,174 @@
+[ 2017-03-25T00:44:45+08:00 ] 220.181.51.120 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T00:58:34+08:00 ] 66.249.79.8 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T01:02:18+08:00 ] 207.46.13.232 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T09:23:57+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"0384A1A166F60597F7AD68F812FD96C9","package":"prepay_id=wx201703250923575df8f731d20047444847","out_trade_no":"1320170325092356680782984","signType":"MD5","timeStamp":"1490405037284","nonceStr":"1490405037284"}}}
+
+[ 2017-03-25T11:50:07+08:00 ] 180.153.206.17 /index.php/orderfund/orderfund
+ERR: 无法加载控制器:Orderfund
+
+[ 2017-03-25T14:34:35+08:00 ] 157.55.39.46 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T14:54:43+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"qhBHG9VGmabetEaHYdZfXxUO5BNj9lxw","sign":"6448DF0A7B9DF52D5C28F2BFBCE62789","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T14:57:57+08:00 ] 175.20.94.213 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"3C9HDmx1ZgThSRj8vEyy2zBnwAWU66ir","sign":"8D2B1B55D96E528BA38D5D8B9ECACD80","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:04:58+08:00 ] 175.20.94.213 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"C42SH0vTqXvhwah06EXpO3luDiRcGRxC","sign":"92561872A7117593AF80CF7FEC06508A","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:05:37+08:00 ] 175.20.94.213 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"0p4Infp4JVS6MDgEnhL0yFK9YQxlMsoG","sign":"36DD923F8AA2181DB8110FC83CEE55B5","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:08:46+08:00 ] 175.20.94.213 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"QYXUY0tbTJfYGWmd0B5Y1fYHJLCYc4wb","sign":"06AEFBBC1B559BA696E43C6FC0855BA5","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:10:25+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"c3PCs1ZbFv3jnw4rpePG0iZUVFlHr0I2","sign":"DE4B412BEB72F033303B9784D10A6E6F","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:12:53+08:00 ] 101.226.69.109 /index.php/Order/index.html
+ERR: 非法操作:index
+
+[ 2017-03-25T15:14:20+08:00 ] 113.213.83.224 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"69219DE07E23F4010CF055B5D71A9A15","package":"prepay_id=wx201703251514207d79825ac90885258902","out_trade_no":"1320170325151419637277816","signType":"MD5","timeStamp":"1490426060575","nonceStr":"1490426060575"}}}
+
+[ 2017-03-25T15:17:01+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"VFcB8nyjTrLH92xIbkzHnzKw1ot0B0oD","sign":"4E58696D3E065BB96603D37FDEFC9416","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:18:26+08:00 ] 175.20.94.213 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"uC0HGYIsBHH7CcWLM9Q3VOMPXe8zwCTn","sign":"43BAAF11F2F4E319C49CF87E5FA5A9AE","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:24:51+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"jDvt01iJrWbHUQ77mhqANxKAq4S5CnkK","sign":"44183F857A34801A4A078C38B988A6B6","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T15:30:13+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"result_code":"1","err_msg":"消费小于该商户支持的限额","mch_id":"101500039075","err_code":"Auth valid fail","status":"0","sign_type":"MD5","nonce_str":"g0eNw7iNXJbpsNLaET6xRb7J8oDDRyyZ","sign":"4CCF4DAD33E4E68200C3FE9DC5481AAD","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T16:02:29+08:00 ] 42.236.99.58 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T16:04:32+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"BCB60D4A19F4934D41019BEBE7219711","package":"prepay_id=wx201703251604326a55fd39330684204853","out_trade_no":"1320170325160432461786742","signType":"MD5","timeStamp":"1490429072762","nonceStr":"1490429072762"}}}
+
+[ 2017-03-25T16:24:14+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101500039075","status":"410","nonce_str":"j4yAq27czl51nLg3Ykqcc4zhRCDtKc6i","sign":"B3BA1B6975F40742CBB983FD269C26FD","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T16:24:23+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101500039075","status":"410","nonce_str":"YgqSPzi31vDfzhOz1021ktbqGCBHiE2X","sign":"A7E360B10A941509E843309083227D99","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T16:25:02+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101500039075","status":"410","nonce_str":"q4bRqTz1feQopJ6jkCqC8NsZLojY7bt8","sign":"8EB9DC9F8FB30DB81D20C3C8ED2378BF","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T16:34:22+08:00 ] 139.214.35.147 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101500039075","status":"410","nonce_str":"IVZAEOY4LEDx05L4BSnMCWCYpyE82tKe","sign":"44EC22D6C8F473C39EC44375EA19BF8A","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-25T17:55:24+08:00 ] 111.26.35.219 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"8778330B77420F6D21A247EC727DC355","package":"prepay_id=wx201703251755248d2b79ec060568374050","out_trade_no":"1320170325175523557261966","signType":"MD5","timeStamp":"1490435724472","nonceStr":"1490435724472"}}}
+
+[ 2017-03-25T19:21:45+08:00 ] 207.46.13.69 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T19:21:46+08:00 ] 207.46.13.69 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T20:42:29+08:00 ] 106.120.173.138 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T20:53:48+08:00 ] 157.55.39.46 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-25T21:26:26+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:26:26+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:26:30+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:26:31+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:27:27+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:27:28+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:34+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:34+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:35+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:35+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:54+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:55+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:56+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:28:56+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:32:28+08:00 ] 223.104.16.58 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"F8D9230E57E376EA2C82A1BC202CE0B6","package":"prepay_id=wx20170325213228bc6cd4dce10637580324","out_trade_no":"1320170325213226747925439","signType":"MD5","timeStamp":"1490448748393","nonceStr":"1490448748393"}}}
+
+[ 2017-03-25T21:33:10+08:00 ] 223.104.16.58 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"89377D71207B170F7AFDC423ADC22B0A","package":"prepay_id=wx20170325213310066cc115280711551496","out_trade_no":"1320170325213309591546597","signType":"MD5","timeStamp":"1490448790733","nonceStr":"1490448790733"}}}
+
+[ 2017-03-25T21:37:53+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:37:53+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:44:02+08:00 ] 113.213.83.224 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"125152EAB79E04202CA927BF8A4990D1","package":"prepay_id=wx2017032521440219571b62a00232480322","out_trade_no":"1320170325214401150504208","signType":"MD5","timeStamp":"1490449442960","nonceStr":"1490449442960"}}}
+
+[ 2017-03-25T21:45:07+08:00 ] 139.214.251.104 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"5858E7A6D505933141987780E39E6C35","package":"prepay_id=wx20170325214507a9efca05030590876987","out_trade_no":"1320170325214506525851018","signType":"MD5","timeStamp":"1490449507685","nonceStr":"1490449507685"}}}
+
+[ 2017-03-25T21:52:57+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:00+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:11+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:11+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:14+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:15+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:49+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:53:49+08:00 ] 36.49.73.123 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-25T21:57:34+08:00 ] 157.55.39.46 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+

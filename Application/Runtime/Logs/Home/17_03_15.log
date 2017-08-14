@@ -1,0 +1,129 @@
+[ 2017-03-15T00:44:00+08:00 ] 123.125.71.13 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+
+[ 2017-03-15T08:23:00+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"IJnQ1myBd3OwMAjmCmu2UdfLvx4KIUdl","sign":"A66218C8F0A5932189D93ED521422AF0","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T08:23:08+08:00 ] 180.153.206.22 /index.php/Wft/jsapi
+ERR: {"Code":102,"Description":"员工主键不能为空!","Data":null}
+
+[ 2017-03-15T08:23:27+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"fhwvG7yKpUxUZcFEBKAxUFBRAOyMEpsS","sign":"62A96DF57510083A4CD8C754C57353C6","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T08:26:14+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"oqXJVqzogTDjRstrb7YI4duSAVEEK03O","sign":"648F6F45CB4BC0A4589B452921775A5A","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T08:26:17+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"mWj3v7tPKAkzXXR0uisQ0vCZujU044sH","sign":"01E189F70CC7A03C855B424A3E92A781","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T10:16:21+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"OqMgV366671l00rXHPNhcuGhTuaSzVI2","sign":"71852B1C295F8ECBD2F37579AFF5D30E","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T10:36:30+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"xsfWLrvK3ErzPuScq58gfrHagcMvsTct","sign":"D131EABEBC0E45BCD506A283538AF88C","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T10:36:45+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"ZrEGBQcLko7KYuZiPUyHrux2mXE1BMJO","sign":"6F6D58B1EF327DFD917DFC565D27545E","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T12:48:44+08:00 ] 139.214.32.45 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101500034718","status":"410","nonce_str":"lbqmwNcclnmyfQ9t34ZFULzJQvf84HqZ","sign":"4A9820D5F3E035B44889D4905466D7CE","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T13:00:15+08:00 ] 139.214.38.186 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"MhvNdNGDlINkafIJlN1Xp0HeyBBzTZGy","sign":"E7DD5390E0E629FEE91D043DCE4ADFF3","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T13:27:01+08:00 ] 139.214.38.186 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"N9vSwaICsfEzJThQawa7C8dveUPyrHjd","sign":"417F20ABEABA487DC3C0D28BCF9554C2","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T14:30:34+08:00 ] 139.214.38.186 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"参数错误！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"101580033391","status":"410","nonce_str":"MA5OdmClFLRkdNyOiitd9PB12azwhH6j","sign":"0226EDE54D74B2E0AD9D3A1BD3C04C1A","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-03-15T15:15:08+08:00 ] 210.140.82.234 /App/Runtime/Logs/Home/17_03_15.log
+ERR: 无法加载控制器:App
+
+[ 2017-03-15T15:15:11+08:00 ] 210.140.82.234 /Apps/Runtime/Logs/Home/17_03_15.log
+ERR: 无法加载控制器:Apps
+
+[ 2017-03-15T15:15:14+08:00 ] 210.140.82.234 /Runtime/Logs/Home/17_03_15.log
+ERR: 无法加载控制器:Runtime
+
+[ 2017-03-15T15:15:17+08:00 ] 210.140.82.234 /Runtime/Logs/17_03_15.log
+ERR: 无法加载控制器:Runtime
+
+[ 2017-03-15T15:15:21+08:00 ] 210.140.82.234 /admin
+ERR: 无法加载控制器:Admin
+
+[ 2017-03-15T15:15:25+08:00 ] 210.140.82.234 /admin.php
+ERR: 无法加载控制器:Admin.php
+
+[ 2017-03-15T15:15:34+08:00 ] 210.140.82.234 /index.php/admin
+ERR: 无法加载控制器:Admin
+
+[ 2017-03-15T20:34:54+08:00 ] 36.48.108.101 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"appId":"wx0781c1dea664cd9a","paySign":"107B5523AB19B3F0571085980ADCA221","package":"prepay_id=wx201703152034549d68b9a2300721803228","out_trade_no":"1320170315203453345581714","signType":"MD5","timeStamp":"1489581294534","nonceStr":"1489581294534"}}}
+
+[ 2017-03-15T21:29:14+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:29:14+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:29:18+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:29:20+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:15+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:15+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:18+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:19+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:19+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:34+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:35+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:36+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:30:36+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:31:42+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:31:42+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:31:50+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:31:50+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:32:32+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:32:33+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:32:34+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.ttf?v=3.2.1
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T21:32:34+08:00 ] 36.49.79.167 /Public/assets/font/fontawesome-webfont.svg
+ERR: 无法加载控制器:Public
+
+[ 2017-03-15T23:31:19+08:00 ] 207.46.13.238 /robots.txt
+ERR: 无法加载控制器:Robots.txt
+

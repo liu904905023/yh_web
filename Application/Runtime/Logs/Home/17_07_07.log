@@ -1,0 +1,24 @@
+[ 2017-07-07T04:44:47+08:00 ] 182.140.215.77 /javascript:void(0);
+ERR: 无法加载控制器:Javascript:void(0);
+
+[ 2017-07-07T07:55:58+08:00 ] 111.26.34.121 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:0
+
+[ 2017-07-07T08:15:34+08:00 ] 36.104.23.66 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:0
+
+[ 2017-07-07T08:59:27+08:00 ] 139.214.34.3 /index.php/Weixin/       http:/web.yunlaohu.cn/index.php/Wxpay/       http:/web.yunlaohu.cn/index.php/Wft/
+ERR: 非法操作:       http:
+
+[ 2017-07-07T11:39:14+08:00 ] 180.153.163.190 /index.php/Ad/undefined
+ERR: 非法操作:undefined
+
+[ 2017-07-07T13:28:07+08:00 ] 139.214.34.3 /index.php/Weixin/       http:/web.yunlaohu.cn/index.php/Wxpay/       http:/web.yunlaohu.cn/index.php/Wft/
+ERR: 非法操作:       http:
+
+[ 2017-07-07T13:28:17+08:00 ] 140.207.185.112 /index.php/Weixin/http:/web.yunlaohu.cn/index.php/Wxpay/http:/web.yunlaohu.cn/index.php/Wft
+ERR: 非法操作:http:
+
+[ 2017-07-07T18:50:17+08:00 ] 117.136.54.1 /index.php/Wft/undefined
+ERR: 非法操作:undefined
+

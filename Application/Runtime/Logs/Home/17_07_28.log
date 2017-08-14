@@ -1,0 +1,18 @@
+[ 2017-07-28T02:05:03+08:00 ] 139.214.251.223 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-28T03:15:03+08:00 ] 123.151.138.76 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+
+[ 2017-07-28T09:50:27+08:00 ] 139.214.244.196 /index.php/Wft/jsapi
+ERR: {"Code":0,"Description":"请求数据成功!","Data":{"PayData":{"token_id":"2fa649cdea6b6494a2b2fedffde9029ef","appId":"wx0781c1dea664cd9a","paySign":"FBF51C3F994AAE12ADB2994FECB0AA45","package":"prepay_id=wx201707280950273c321092180641831520","out_trade_no":"1320170728095027530801509","signType":"MD5","timeStamp":"1501206627801","nonceStr":"1501206627801"}}}
+
+[ 2017-07-28T09:50:36+08:00 ] 139.214.38.86 /index.php/Wft/jsapi
+ERR: {"Code":9001,"Description":"请求数据失败！","Data":{"PayData":{"message":"sub_appid and sub_openid not match","mch_id":"103550082280","status":"410","nonce_str":"ffkkBiniRuVYZavQHcrB4UvfMuFh0CaT","sign":"6A962765A39DD80C5BF713BD95DD0A18","charset":"UTF-8","version":"2.0"}}}
+
+[ 2017-07-28T14:18:42+08:00 ] 112.65.193.15 /index.php/refundsearch/refund_search
+ERR: 无法加载控制器:Refundsearch
+
+[ 2017-07-28T23:24:20+08:00 ] 223.104.16.40 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:6
+

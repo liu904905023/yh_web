@@ -1,0 +1,18 @@
+[ 2017-04-27T09:36:35+08:00 ] 101.226.33.216 /index.php/qrcodelist/codelist/?topid=4804
+ERR: 无法加载控制器:Qrcodelist
+
+[ 2017-04-27T18:10:06+08:00 ] 111.161.105.16 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-27T18:10:11+08:00 ] 101.226.125.113 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-27T20:55:30+08:00 ] 111.27.146.143 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-27T20:55:39+08:00 ] 111.27.146.143 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+
+[ 2017-04-27T21:18:28+08:00 ] 36.48.110.215 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:7
+

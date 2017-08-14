@@ -1,0 +1,33 @@
+[ 2017-04-17T09:46:17+08:00 ] 101.226.125.109 /index.php/Wxpay/jsapi
+ERR: curl出错，错误码:28
+
+[ 2017-04-17T16:39:37+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:39:53+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:41:06+08:00 ] 139.214.36.241 /Public/University/js/index1.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:41:28+08:00 ] 139.214.33.119 /Public/University/js/index1.js
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:52:59+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:53:03+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:57:10+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T16:57:49+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T17:06:58+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
+[ 2017-04-17T17:07:40+08:00 ] 139.214.33.119 /Public/University/js/maps/swiper.min.js.map
+ERR: 无法加载控制器:Public
+
