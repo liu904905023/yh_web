@@ -1,0 +1,118 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1502699136000)
++++ .idea/workspace.xml	(revision )
+@@ -3,7 +3,9 @@
+   <component name="ChangeListManager">
+     <list default="true" id="3d9960ac-706f-4877-91f5-59342357cb52" name="Default" comment="">
+       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123" afterPath="$PROJECT_DIR$/123" />
+     </list>
++    <list id="82a5f99e-06c4-46b8-8fcd-d12688191809" name="Failed commit: Default" comment="再玩一玩" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="TRACKING_ENABLED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -17,11 +19,21 @@
+   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+   <component name="FileEditorManager">
+     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
++      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/test.php">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="69">
+-              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
++              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
++              <folding />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="123" pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/123">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="0">
++              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+               <folding />
+             </state>
+           </provider>
+@@ -46,8 +58,9 @@
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+       <list>
+-        <option value="$PROJECT_DIR$/test.php" />
+         <option value="$PROJECT_DIR$/robots.txt" />
++        <option value="$PROJECT_DIR$/test.php" />
++        <option value="$PROJECT_DIR$/123" />
+       </list>
+     </option>
+   </component>
+@@ -174,7 +187,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1502695235395</updated>
+       <workItem from="1502695237225" duration="1870000" />
+-      <workItem from="1502697172783" duration="1663000" />
++      <workItem from="1502697172783" duration="2030000" />
+     </task>
+     <task id="LOCAL-00001" summary="再玩玩">
+       <created>1502695271507</created>
+@@ -211,11 +224,25 @@
+       <option name="project" value="LOCAL" />
+       <updated>1502698834402</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="再玩一玩">
++      <created>1502698838460</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1502698838460</updated>
++    </task>
++    <task id="LOCAL-00007" summary="再玩一玩">
++      <created>1502699040544</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1502699040544</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="3533000" />
++    <option name="totallyTimeSpent" value="3900000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+@@ -285,7 +312,15 @@
+     <entry file="file://$PROJECT_DIR$/test.php">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="69">
+-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
++          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/123">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+           <folding />
+         </state>
+       </provider>
+Index: 123
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- 123	(date 1502699136000)
++++ 123	(revision )
+@@ -1,1 +1,1 @@
+-123
+\ No newline at end of file
++123123
+\ No newline at end of file
