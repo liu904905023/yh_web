@@ -34,8 +34,8 @@
       <file leaf-file-name="123.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/123.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="207">
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -213,7 +213,7 @@
       <workItem from="1502699949889" duration="1546000" />
       <workItem from="1502756498011" duration="2210000" />
       <workItem from="1505720727998" duration="466000" />
-      <workItem from="1505723445726" duration="234000" />
+      <workItem from="1505723445726" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="再玩玩">
       <created>1502695271507</created>
@@ -306,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505723527389</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="再玩一玩11123123123">
+      <created>1505723687981</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1505723687981</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8642000" />
+    <option name="totallyTimeSpent" value="8746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -550,8 +557,8 @@
     <entry file="file://E:/FlashFXP/Cache/~flashfxp/7A9D1E2F_edit.tmp/RefundBatchController.class.php" />
     <entry file="file://$PROJECT_DIR$/123.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="207">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
