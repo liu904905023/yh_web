@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d9960ac-706f-4877-91f5-59342357cb52" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/123.txt" afterPath="$PROJECT_DIR$/123.txt" />
     </list>
     <list id="82a5f99e-06c4-46b8-8fcd-d12688191809" name="Failed commit: Default" comment="再玩一玩" />
     <ignored path="E:\WWW\yh_web\yh_web\.idea\shelf/" />
@@ -206,7 +205,7 @@
       <workItem from="1502697172783" duration="1663000" />
       <workItem from="1502699949889" duration="1546000" />
       <workItem from="1502756498011" duration="2210000" />
-      <workItem from="1505720727998" duration="419000" />
+      <workItem from="1505720727998" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="再玩玩">
       <created>1502695271507</created>
@@ -271,11 +270,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505721054488</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="再玩一玩11123">
+      <created>1505721151518</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1505721151518</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8361000" />
+    <option name="totallyTimeSpent" value="8391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
@@ -312,7 +318,8 @@
     <MESSAGE value="再玩玩" />
     <MESSAGE value="再玩一玩" />
     <MESSAGE value="再玩一玩11" />
-    <option name="LAST_COMMIT_MESSAGE" value="再玩一玩11" />
+    <MESSAGE value="再玩一玩11123" />
+    <option name="LAST_COMMIT_MESSAGE" value="再玩一玩11123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
